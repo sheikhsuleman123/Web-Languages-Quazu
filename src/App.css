@@ -1,0 +1,41 @@
+.main-body{
+  margin: 0px;
+  padding: 0px;
+  margin-top: 0px;
+}
+.circle{
+  margin-top: 50px;
+}
+.section-broadcast{
+  position: relative;
+  background: url('./img/circuit.jpg');
+  background-size: cover;
+  background-position: center;
+  border-bottom: #333 solid 4px;
+  border-top: #333 solid 4px;
+  min-height: 180px;
+}
+.section-broadcast a{
+  margin-top: 35px;
+}
+.section-broadcast .primary-overlay{
+  background: rgba(112, 81, 176, 0.9);
+}
+
+@media(max-width:500px){
+  .section-developers,
+  .section-broadcast{
+    min-height: 240px;
+  }
+}
+#login-btn{
+  float: right;
+  margin-left: 20px; 
+}
+#reg-btn{
+  float:right;
+}
+
+.carousel{
+  cursor: pointer;
+}
