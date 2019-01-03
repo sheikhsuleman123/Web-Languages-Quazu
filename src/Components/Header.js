@@ -35,16 +35,19 @@ class Header extends Component {
    <i className="fa fa-bars"> </i>
    </a>
    <ul className="right hide-on-med-and-down">
-   <li>
-     
+    
+    <li>
      <a href="/">Home</a>
      </li> 
+    
      <li>
      <a href="/solution" >Solution</a>
      </li> 
+    
      <li>
      <a className="waves-effect waves-light btn blue-darken-3 modal-trigger" onClick={this.showSignupModalFunction.bind(this)}>SignUp</a>
      </li> 
+    
      <li>
      <button className="waves-effect waves-light btn purple modal-trigger" onClick={this.showLoginModalFunction.bind(this)} >Login</button>
     

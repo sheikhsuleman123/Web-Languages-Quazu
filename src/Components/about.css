@@ -18,3 +18,7 @@
     min-height: 180px;
 
 }
+.btn-extend{
+    display: block;
+    width: 100%;
+}
