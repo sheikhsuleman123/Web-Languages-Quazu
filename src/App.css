@@ -39,3 +39,11 @@
 .carousel{
   cursor: pointer;
 }
+.flow-text-p{
+  font-size: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section-features{
+  background-color: rgba(250, 242, 242, 0.76);
+
+}

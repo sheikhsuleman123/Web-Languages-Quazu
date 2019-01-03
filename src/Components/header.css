@@ -12,3 +12,19 @@
 .rbtn{
     margin-left: 10px;
 }
+
+
+.main-header-inner{
+    font-family: verdana;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    min-height: 350px;
+}
+.main-header-inner .showcase{
+    padding-top: 50px;
+}
+.tabs .indicator {
+    background-color: blueviolet !important;
+}

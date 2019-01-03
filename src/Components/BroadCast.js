@@ -30,39 +30,26 @@ class BroadCast extends Component {
                 <div class="carousel carousel-slider center">
                  <div class="carousel-item" href="#one">  
                 <h2>Paragraph 1</h2>
-                <p> <div class="flow-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam<br/> praesentium dignissimos voluptatum!
-                </div>
+                
+                <p class="flow-text-p">    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              <br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam <br/> 
+              praesentium dignissimos voluptatum! <br/>
                 <em>Hallo Jimmy </em></p>
-                {/* <div class="carousel-fixed-item center hide-on-small-and-down">
-                 <a href="#" class="btn grey"> Read More </a>
-                </div> */}
-                      </div>
+                                      </div>
                
-                          
                 <div class="carousel-item" href="#two">  
-                   <h2>Paragraph 2</h2>
-                    <p> <div class="flow-text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam<br/> praesentium dignissimos voluptatum!
-                   </div>
-                  <em>Sheikh Suleman Ali</em></p>
-                   {/* <div class="carousel-fixed-item center hide-on-small-and-down">
-                     <a href="#" class="btn grey"> Read More </a>
-                    </div> */}
-                </div>
+                   <h2>Paragraph 2</h2>     
+                <p class="flow-text-p">  Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam<br/> praesentium dignissimos voluptatum!
+                    <em>Sheikh Suleman Ali</em> </p>
+            </div>
 
              <div class="carousel-item" href="#three">  
              <h2>Test 3</h2>
-             <p> <div class="flow-text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam<br/> praesentium dignissimos voluptatum!
-             </div>
+             <div class="flow-text">
+             <p>  Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Veniam fugiat nihil aliquid unde ab eius id laboriosam<br/> praesentium dignissimos voluptatum!    
            <em>Sheikh Suleman Ali</em></p>
-             
-             {/* <div class="carousel-fixed-item center hide-on-small-and-down">
-            <a href="#" class="btn grey"> Read More </a>
-                 </div> */}
-            
-                    </div>      
+             </div>
+         </div>      
                   </div>
                 </div>
               </div>

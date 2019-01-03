@@ -6,11 +6,11 @@ import '../App.css';
     return (
       <div>
                <div class="carousel" >
-     <a className="carousel-item" href="#one!"><img src="../img/python.jpg " /></a>
-     <a className="carousel-item" href="#two!"><img src="../img/js.png " /></a>
-     <a className="carousel-item" href="#three!"><img src="../img/react.png " /></a>
-     <a className="carousel-item" href="#four!"><img src="../img/firebase.png " /></a>
-     <a className="carousel-item" href="#five!"><img src="../img/php-logo.png " /></a>
+     <a className="carousel-item" href="#one!"><img src="../img/python.jpg " alt="not found"/></a>
+     <a className="carousel-item" href="#two!"><img src="../img/js.png " alt="not found"/></a>
+     <a className="carousel-item" href="#three!"><img src="../img/react.png " alt="not found"/></a>
+     <a className="carousel-item" href="#four!"><img src="../img/firebase.png " alt="not found"/></a>
+     <a className="carousel-item" href="#five!"><img src="../img/php-logo.png " alt="not found"/></a>
                </div>
       </div>
     )
